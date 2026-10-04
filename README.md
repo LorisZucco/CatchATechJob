@@ -874,7 +874,7 @@ https://trello.com/b/LMzJS6V4/projeto-catchatechjob
 
 # 🎥 Vídeo de apresentação
 
-O vídeo demonstrará o funcionamento da aplicação e explicará as principais decisões tomadas durante o desenvolvimento.
+(https://drive.google.com/file/d/10lPmdd5FTQ2a_KhBV4Udxe3HfYE8wdjU/view?usp=drive_link)
 
 ## Link do vídeo
 
